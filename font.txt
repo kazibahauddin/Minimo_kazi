@@ -1,0 +1,6 @@
+playfairdisplay italic
+playfairdisplay regular
+playfairdisplay black
+playfairdisplay bold
+ubuntu light
+inconsolata regular
